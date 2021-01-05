@@ -52,3 +52,19 @@ input
  border-bottom: 1px solid #ffffff;
     padding: 8px;
 }
+.book {
+    cursor: pointer;
+}
+.book hr {
+    margin-bottom: 10px;
+}
+.modal-content {
+    margin-top: 100px;
+    
+}
+i-modal {
+    display: inline-block;
+}
+pmodal {
+    margin-top: 10px;
+}
